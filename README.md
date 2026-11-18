@@ -1,4 +1,4 @@
-![Mohamed Yasin — Creative Technologist and Digital Marketing Lead](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:101c38,100:2463df&text=Mohamed%20Yasin&fontColor=ffffff&fontSize=52&fontAlign=32&fontAlignY=41&desc=Creative%20Technologist%20%26%20Digital%20Marketing%20Lead&descSize=18&descAlign=39&descAlignY=61)
+![Mohamed Yasin — Creative Technologist and Digital Marketing Lead](https://raw.githubusercontent.com/Moeyasin88/Moeyasin88/main/assets/profile-banner.svg)
 
 I design brand identities and build software for **web, mobile, and desktop**. I also lead digital marketing, from shaping a campaign’s creative direction to measuring how people use the finished product.
 
