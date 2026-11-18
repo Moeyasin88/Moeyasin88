@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Mohamed Yasin</h1>
+<p align="center"><strong>Digital Marketing · Interface Design · Web Development</strong></p>
+<p align="center">I design and build web experiences, then use analytics and automation to improve how they work.</p>
 
-<!--
-**Moeyasin88/Moeyasin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Focus |
+| --- | --- |
+| **Digital marketing** | Campaign measurement, web analytics, and performance dashboards |
+| **Interface design** | UI/UX, prototyping, and motion design |
+| **Web development** | Responsive web apps, API integrations, and workflow automation |
+
+### Tools I use
+
+**Frontend** · React, TypeScript, Tailwind CSS  
+**Backend & data** · Node.js, Laravel, Supabase, PostgreSQL  
+**Design & automation** · Figma, After Effects, n8n
+
+---
+
+[Browse my public repositories](https://github.com/Moeyasin88?tab=repositories)
