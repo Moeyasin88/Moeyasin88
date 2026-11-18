@@ -1,23 +1,37 @@
 <h1 align="center">Mohamed Yasin</h1>
-<p align="center"><strong>Digital Marketing · Interface Design · Web Development</strong></p>
-<p align="center">I design and build web experiences, then use analytics and automation to improve how they work.</p>
+
+<p align="center"><strong>Creative Technologist &amp; Digital Marketing Lead</strong></p>
+
+<p align="center">Software Development · Brand Identity · Digital Experience</p>
 
 ---
 
-### What I work on
+I design and build digital products across **web, mobile, and desktop**. My work spans brand identity and interface design, hands-on software development, and digital marketing leadership. I bring those disciplines together to take projects from concept and prototype through launch and performance measurement.
 
-| Area | Focus |
+### Software development
+
+| Platform | What I build |
 | --- | --- |
-| **Digital marketing** | Campaign measurement, web analytics, and performance dashboards |
-| **Interface design** | UI/UX, prototyping, and motion design |
-| **Web development** | Responsive web apps, API integrations, and workflow automation |
+| **Web** | Responsive web applications, full-stack features, and API integrations |
+| **Mobile** | Cross-platform applications with Flutter and Dart |
+| **Desktop** | Desktop applications and utilities |
+| **Data & automation** | Database-backed features, dashboards, reporting, and workflow integrations |
 
-### Tools I use
+**Languages** · JavaScript, TypeScript, Dart, PHP, SQL  
+**Frameworks & platforms** · React, Flutter, Node.js, Laravel, Supabase, PostgreSQL, Firebase
 
-**Frontend** · React, TypeScript, Tailwind CSS  
-**Backend & data** · Node.js, Laravel, Supabase, PostgreSQL  
-**Design & automation** · Figma, After Effects, n8n
+### Branding, design & motion
+
+**Brand identity** · Visual identities, brand assets, and campaign creative  
+**UI/UX** · Product interfaces, interaction design, and prototyping  
+**Motion design** · 2D and 3D animation for digital experiences and campaigns
+
+**Tools** · Adobe Illustrator, Photoshop, After Effects, Figma, Cinema 4D
+
+### Digital marketing leadership
+
+I lead digital marketing work across campaign planning, web analytics, performance dashboards, and workflow automation. I use campaign and product data to guide improvements to the customer experience.
 
 ---
 
-[Browse my public repositories](https://github.com/Moeyasin88?tab=repositories)
+[Explore my public repositories →](https://github.com/Moeyasin88?tab=repositories)
