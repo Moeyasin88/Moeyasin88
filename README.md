@@ -1,37 +1,24 @@
-<h1 align="center">Mohamed Yasin</h1>
+![Mohamed Yasin — Creative Technologist and Digital Marketing Lead](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:101c38,100:2463df&text=Mohamed%20Yasin&fontColor=ffffff&fontSize=52&fontAlign=32&fontAlignY=41&desc=Creative%20Technologist%20%26%20Digital%20Marketing%20Lead&descSize=18&descAlign=39&descAlignY=61)
 
-<p align="center"><strong>Creative Technologist &amp; Digital Marketing Lead</strong></p>
-
-<p align="center">Software Development · Brand Identity · Digital Experience</p>
-
----
-
-I design and build digital products across **web, mobile, and desktop**. My work spans brand identity and interface design, hands-on software development, and digital marketing leadership. I bring those disciplines together to take projects from concept and prototype through launch and performance measurement.
+I design brand identities and build software for **web, mobile, and desktop**. I also lead digital marketing, from shaping a campaign’s creative direction to measuring how people use the finished product.
 
 ### Software development
-
-| Platform | What I build |
-| --- | --- |
-| **Web** | Responsive web applications, full-stack features, and API integrations |
-| **Mobile** | Cross-platform applications with Flutter and Dart |
-| **Desktop** | Desktop applications and utilities |
-| **Data & automation** | Database-backed features, dashboards, reporting, and workflow integrations |
-
+I build full-stack web apps, cross-platform mobile apps, desktop utilities, and API integrations.  
 **Languages** · JavaScript, TypeScript, Dart, PHP, SQL  
-**Frameworks & platforms** · React, Flutter, Node.js, Laravel, Supabase, PostgreSQL, Firebase
+**Stack** · React, Node.js, Flutter, Laravel, Supabase, PostgreSQL, Firebase
 
-### Branding, design & motion
+### Brand identity & design
+My design work spans visual identities, interface prototypes, campaign artwork, and 2D and 3D motion.  
+**Studio tools** · Illustrator, Photoshop, Figma, After Effects, Cinema 4D
 
-**Brand identity** · Visual identities, brand assets, and campaign creative  
-**UI/UX** · Product interfaces, interaction design, and prototyping  
-**Motion design** · 2D and 3D animation for digital experiences and campaigns
-
-**Tools** · Adobe Illustrator, Photoshop, After Effects, Figma, Cinema 4D
-
-### Digital marketing leadership
-
-I lead digital marketing work across campaign planning, web analytics, performance dashboards, and workflow automation. I use campaign and product data to guide improvements to the customer experience.
+### Digital marketing
+I plan campaigns, track customer journeys, and build reporting workflows that help teams decide what to improve next.  
+**Analytics & automation** · Google Analytics 4, Microsoft Clarity, n8n
 
 ---
 
-[Explore my public repositories →](https://github.com/Moeyasin88?tab=repositories)
+### Featured project
+**[Multiplayer browser game](https://github.com/Moeyasin88/wormate-game)**  
+A multiplayer game with a React frontend and Node.js backend.
+
+[Browse public repositories →](https://github.com/Moeyasin88?tab=repositories)
